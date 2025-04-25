@@ -1,0 +1,226 @@
+lib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dartlib/
+├── data/
+│   ├── models/
+│   │   ├── player.dart
+│   │   └── match.dart
+│   └── datasources/
+│       └── api_service.dart
+├── domain/
+│   ├── entities/
+│   │   ├── player_entity.dart
+│   │   └── match_entity.dart
+│   └── usecases/
+│       ├── add_player.dart
+│       ├── delete_player.dart
+│       ├── generate_random_match.dart
+│       └── get_stats.dart
+├── presentation/
+│   ├── providers/
+│   │   ├── player_provider.dart
+│   │   └── match_provider.dart
+│   └── screens/
+│       ├── home_screen.dart
+│       ├── players_screen.dart
+│       ├── matches_screen.dart
+│       └── stats_screen.dart
+└── main.dart
